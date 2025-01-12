@@ -1,1 +1,2 @@
-# LangGraph
+# Learning LangGraph: From basics to advanced
+
